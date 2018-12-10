@@ -1,2 +1,10 @@
 v1.0 - Dom Dez 09 19:30:25 -02 2018
 	*Lançamento da versão 1.0.
+v1.1 - Seg Dez 10 00:47:38 -02 2018
+	*Lançamento da versão 1.1.
+	** Notas do Lançamento
+	- Correção da string "Modo" na l1nha 35
+	- Inserção do comando 'exit 0' na linha 44
+	- Inserção da string '.git' na linha 23
+	- Atualização da versão na linha 4
+	- Atualização da data na linha 6
